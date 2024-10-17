@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj": {}
+    "C:\\Users\\UPN\\FUNALGT2-8568\\nousar\\nousar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj": {
+    "C:\\Users\\UPN\\FUNALGT2-8568\\nousar\\nousar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj",
+        "projectUniqueName": "C:\\Users\\UPN\\FUNALGT2-8568\\nousar\\nousar.csproj",
         "projectName": "nousar",
-        "projectPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj",
+        "projectPath": "C:\\Users\\UPN\\FUNALGT2-8568\\nousar\\nousar.csproj",
         "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\obj\\",
+        "outputPath": "C:\\Users\\UPN\\FUNALGT2-8568\\nousar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
